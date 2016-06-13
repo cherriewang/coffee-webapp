@@ -1,0 +1,27 @@
+h1 { 
+    font-family: 'Pacifico', Arial, serif; 
+    font-weight: 400; 
+    color: white; 
+    text-align: center 
+}
+
+
+IMG.loader {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.button.button {
+    background-color: #331a00; 
+    border: none;
+    border-radius: 18px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font: Droid Sans;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+}
